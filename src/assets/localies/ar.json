@@ -1,0 +1,19 @@
+{
+    "translation": {
+        "home":"تعليم",
+        "login":"تسجيل دخول",
+        "quizes":"امتحانات",
+        "videos":"فيديوهات",
+        "summaries":"ملخصات",
+        "create-account":"انشاء حساب",
+        "hello": "اهلا",
+        "Quizes":"الإمتحانات",
+        "E-mail":"البريد الالكتروني",
+        "Name":"الإسم",
+        "Phone":"رقم الموبايل",
+        "Password":"كلمة السر",
+        "Log-Out":"تسجيل خروج",
+        "Cumulative percentage":"نسبة التراكمي",
+        "this line is translated": "هذا سطر ترجمه"
+    }
+}
